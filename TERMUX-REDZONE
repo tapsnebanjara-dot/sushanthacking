@@ -3,15 +3,14 @@ import os
 def menu():
     print("""
 ========================================
-Created By HCO_Team
-Channel: Hackers Coony Official
+Created By REDZONE Official
 Version:1.0.0.6
 ----
 This tool is available for Termux Only 
 ----
 ==========================================
-1. Install HCO-Bomber
-2. Install HCO-Phisher
+1. Install REDZONE-Bomber
+2. Install REDZONE-Phisher
 3. Install WaCrasher
 4. Install metasploit-framework
 5. Install Sherlock
@@ -34,8 +33,8 @@ while loop:
         os.system("cd /data/data/com.termux/files/home && cd HCO-Bomber && chmod +x hco-bomber")
         os.system("cd /data/data/com.termux/files/home")
         print("====================================")
-        print("(+)HCO-Bomber was successfuly installed :)")
-        print("(+)To run HCO-Bomber type./hco-bomber ")
+        print("(+)REDZONE-Bomber was successfuly installed :)")
+        print("(+)To run REDZONE-Bomber type./hco-bomber ")
         print("====================================")
         rmenu = input("[?] Back to Menu? (y/n): ")
         if rmenu == "y":
@@ -49,8 +48,8 @@ while loop:
         os.system("cd /data/data/com.termux/files/home && cd HCO-Phisher && 𝗰𝗵𝗺𝗼𝗱 +𝘅 setup && 𝗯𝗮𝘀𝗵 𝘀𝗲𝘁𝘂𝗽* ")
         os.system("cd /data/data/com.termux/files/home")
         print("====================================")
-        print("(+)HCo-Phisher was successfully installed :)")
-        print("[+]𝗧𝘂𝗿𝗻 𝗼𝗻 𝘆𝗼𝘂𝗿 𝗠𝗼𝗯𝗶𝗹𝗲 𝗵𝗼𝘁𝘀𝗽𝗼𝘁 then  𝗵𝗰𝗼𝗽𝗵𝗶𝘀𝗵 Type  to start.")
+        print("(+)REDZONE-Phisher was successfully installed :)")
+        print("[+]𝗧𝘂𝗿𝗻 𝗼𝗻 𝘆𝗼𝘂𝗿 𝗠𝗼𝗯𝗶𝗹𝗲 𝗵𝗼𝘁𝘀𝗽𝗼𝘁 then  redzone𝗽𝗵𝗶𝘀𝗵 Type  to start.")
         print("====================================")
         rmenu = input("[?] Back to Menu? (y/n): ")
         if rmenu == "y":
